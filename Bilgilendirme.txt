@@ -1,0 +1,2 @@
+Bu otomasyon N-Tier, ADO.NET ve Store Proc Teknolojisi ile yazılmıştır.
+CRUD İşlemleri ve Raporlama içerir.
